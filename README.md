@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Hugo dos Santos
 
-- 
 - 🎓 Atualmente cursando Sistemas de Informação na PUC Minas
 - 🌱 Estudando .NET
 - 🎮 Apaixonado por games
