@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Hugo dos Santos
 
 - 🎓 Atualmente cursando Sistemas de Informação na PUC Minas
+- 💻 Desenvolvedor Backend
 - 🌱 Estudando .NET
 - 🎮 Apaixonado por games
 - 📫 Contate-me no email: hugossilva.dev@gmail.com
